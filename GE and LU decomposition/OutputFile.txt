@@ -1,0 +1,15 @@
+METHOD 2:-Gauss Elimination with pivoting 
+ x 
+ [[1.51785714]
+ [1.96428571]
+ [0.60714286]] 
+
+Matrix after pivoting 
+ [[4. 2. 0.]
+ [2. 4. 1.]
+ [0. 1. 5.]] 
+
+The elements of U Matrix
+ [[4.         2.         0.        ]
+ [0.         3.         1.        ]
+ [0.         0.         4.66666667]]

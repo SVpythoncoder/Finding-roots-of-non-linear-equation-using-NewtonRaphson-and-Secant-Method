@@ -1,0 +1,106 @@
+METHOD 1:-Gauss Elimination without pivoting 
+
+ x 
+ [[1.51785714]
+ [1.96428571]
+ [0.60714286]] 
+
+The elements of U Matrix
+ [[4.         2.         0.        ]
+ [0.         3.         1.        ]
+ [0.         0.         4.66666667]]
+ 
+ 
+ METHOD 2:-Gauss Elimination with pivoting 
+ 
+ x 
+ [[1.51785714]
+ [1.96428571]
+ [0.60714286]] 
+
+Matrix after pivoting 
+ [[4. 2. 0.]
+ [2. 4. 1.]
+ [0. 1. 5.]] 
+
+The elements of U Matrix
+ [[4.         2.         0.        ]
+ [0.         3.         1.        ]
+ [0.         0.         4.66666667]]
+ 
+ 
+ METHOD 3:-Gauss Elimination with pivoting and scaling 
+ 
+ x 
+ [[1.51785714]
+ [1.96428571]
+ [0.60714286]] 
+
+Matrix after pivoting and scaling
+ [[4. 2. 0.]
+ [2. 4. 1.]
+ [0. 1. 5.]] 
+
+The elements of U Matrix
+ [[4.         2.         0.        ]
+ [0.         3.         1.        ]
+ [0.         0.         4.66666667]]
+ 
+ 
+ METHOD 4:-LU by GE without pivoting 
+
+ x 
+ [[1.51785714]
+ [1.96428571]
+ [0.60714286]] 
+
+L Matrix 
+[[1.         0.         0.        ]
+ [0.5        1.         0.        ]
+ [0.         0.33333333 1.        ]] 
+
+U Matrix
+ [[4.         2.         0.        ]
+ [0.         3.         1.        ]
+ [0.         0.         4.66666667]]
+ 
+ 
+ METHOD 5:-LU by GE with pivoting 
+
+ x 
+ [[1.51785714]
+ [1.96428571]
+ [0.60714286]] 
+
+Matrix after pivoting 
+ [[4. 2. 0.]
+ [2. 4. 1.]
+ [0. 1. 5.]] 
+
+L Matrix 
+[[1.         0.         0.        ]
+ [0.5        1.         0.        ]
+ [0.         0.33333333 1.        ]] 
+
+U Matrix
+ [[4.         2.         0.        ]
+ [0.         3.         1.        ]
+ [0.         0.         4.66666667]]
+ 
+ 
+ METHOD 6:-LU by Crout method 
+
+ x 
+ [[1.51785714]
+ [1.96428571]
+ [0.60714286]] 
+
+L Matrix 
+[[4.         0.         0.        ]
+ [2.         3.         0.        ]
+ [0.         1.         4.66666667]] 
+
+U Matrix
+ [[1.         0.5        0.        ]
+ [0.         1.         0.33333333]
+ [0.         0.         1.        ]]
