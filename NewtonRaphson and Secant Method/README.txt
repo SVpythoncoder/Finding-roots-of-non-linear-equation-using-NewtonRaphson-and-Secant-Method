@@ -1,11 +1,11 @@
 # Finding-roots-of-non-linear-equation-using-NewtonRaphson-and-Secant-Method
 
-Here is a simple automated program which help to implement the the Newton Raphson method and Secant method for finding the roots of any non linear equation
+Here is a simple automated program which help to implement the Newton Raphson method and Secant method for finding the roots of any non linear equation
 
 DETAILS:-
 
-Input required form user:-
-A user interface for providing – 
+Input required from user:-
+A user interface for providing â€“ 
 (i) Non-linear equation, 
 (ii) Option to choose one of the two methods mentioned above, 
 (iii) Starting values, and 
