@@ -4,7 +4,7 @@ Here is a simple automated program which help to implement the the Newton Raphso
 
 DETAILS:-
 
-Input required form user:-
+Input required form user:-\n
 A user interface for providing – 
 (i) Non-linear equation, 
 (ii) Option to choose one of the two methods mentioned above, 
